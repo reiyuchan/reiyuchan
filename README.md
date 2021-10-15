@@ -1,8 +1,8 @@
 ### Hi there! 👋
 - 🌱 I’m currently studying Computer Science and programming in general.
 - 🔭 I’m currently working on improving my experience with programming through : 
-  - Contributing as much as i can to open-source.
-  - Building personal projects.
+  - 🔣 Contributing as much as i can to open-source.
+  - 🔣 Building personal projects.
 
 <!--
 **reiyuchan/reiyuchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
