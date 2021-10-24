@@ -1,7 +1,7 @@
 ### Hi there! 👋
 - 🌱 I’m currently studying Computer Science and programming in general.
 - 🔭 I’m currently working on improving my experience with programming through : 
-  - 🔣 Contributing as much as i can to open-source.
+  - 🔣 Contributing as much as i can to the open-source community.
   - 🔣 Building personal projects.
 
 <!--
