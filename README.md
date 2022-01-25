@@ -4,6 +4,7 @@
   - ⌨️ Contributing as much as i can to the open-source community.
   - 🔣 Building personal projects.
 
+![cs](https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif)
 <!--
 **reiyuchan/reiyuchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
