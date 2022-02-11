@@ -1,10 +1,9 @@
 ### Hey there! 👋
-```css
 - 🌱 I’m studying Computer Science and programming in general.
 - 💻 I’m currently working on improving my experience with programming through : 
   - ⌨️ Contributing as much as i can to the open-source community.
   - 🔣 Building personal projects.
-```
+
 ![cs](https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif)
 <details>
 <summary>
