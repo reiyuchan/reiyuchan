@@ -8,9 +8,10 @@
 <details>
 <summary>
 </summary>
-
+<a href="github.com/reiyuchan">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reiyuchan&theme=tokyonight)
 ![stats](https://github-readme-stats.vercel.app/api?username=reiyuchan&theme=tokyonight)
+   </a>
 </details>
 <!--
 **reiyuchan/reiyuchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
