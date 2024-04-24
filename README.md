@@ -5,6 +5,14 @@
   - 🔣 Building personal projects.
 
 ![cs](https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif)
+
+[![Static Badge](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat-square&logo=archlinux)](https://archlinux.org)
+[![Static Badge](https://img.shields.io/badge/OS-Windows%2011-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com/software-download/windows11)
+[![Static Badge](https://img.shields.io/badge/IDE-%20VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com)
+[![Static Badge](https://img.shields.io/badge/IDE-%20Vim-blue?style=flat-square&logo=vim)](https://www.vim.org)
+[![Static Badge](https://img.shields.io/badge/IDE-%20IDEA-purple?style=flat-square&logo=intellijidea)](https://www.jetbrains.com/idea)
+[![Static Badge](https://img.shields.io/badge/DE-%20KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
+
 <details>
 <summary>
 </summary>
