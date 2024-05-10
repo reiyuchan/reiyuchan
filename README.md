@@ -1,6 +1,22 @@
+<!--
+**reiyuchan/reiyuchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  -->
+
 ### Hey there! 👋
+
 - 🌱 I’m studying Computer Science and programming in general.
-- 💻 I’m currently working on improving my experience with programming through : 
+- 💻 I’m currently working on improving my experience with programming through :
   - ⌨️ Contributing as much as i can to the open-source community.
   - 🔣 Building personal projects.
 
@@ -18,30 +34,23 @@
 </summary>
 <table>
 <tr>
-<td>
-<a href="https://github.com/reiyuchan/"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiyuchan&theme=tokyonight" />
-  </a>
+  <td colspan="2">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reiyuchan&theme=tokyonight" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reiyuchan&theme=tokyonight" />
+    </a>
   </td>
   <td>
-<a href="https://github.com/reiyuchan/"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=reiyuchan&theme=tokyonight" />
-  </a>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reiyuchan&theme=tokyonight" />
+    </a>
   </td>
-  </tr>
+</tr>
   </table>
 </details>
-<!--
-**reiyuchan/reiyuchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
