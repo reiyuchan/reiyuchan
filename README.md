@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 
 ### Hey there! 👋
 
-- 🌱 I’m studying Computer Science and programming in general.
-- 💻 I’m currently working on improving my experience with programming through :
-  - ⌨️ Contributing as much as i can to the open-source community.
-  - 🔣 Building personal projects.
+- 🔭 I’m currently working on Web Apps, CLI/Desktop Apps, Mobile Apps.
+- 🌱 I’m currently learning Go, Swift, Kubernetes.
+- 💬 Ask me about anything.
+- 😄 Pronouns: he/him/his
+- 📫 How to reach me: [email](mailto:iwakura.rei.tk@gmail.com) / [keybase](https://keybase.io/reiyuchan) / [telegram](https://t.me/reiyuchann)
+- ⚡ Fun fact: i like making music on my free time
 
 ![cs](https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif)
 
